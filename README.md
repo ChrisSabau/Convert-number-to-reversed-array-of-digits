@@ -1,3 +1,5 @@
+Code Wars  -- Convert number to reversed array of digits
+
 Given a random integer, return the integers within an array in reverse order.
 
 Example:
